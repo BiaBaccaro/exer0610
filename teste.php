@@ -10,7 +10,7 @@
     <?php
         $c = 5;
     ?>
-        <h1>Arquivo teste.php com a declaração da variável c</h1>
+    
     <div>
         <h1>Encontre os melhores produtos:</h1>
         <p>Caneta BIC R$1,00</p>
