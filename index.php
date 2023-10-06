@@ -12,9 +12,6 @@
     ?>
 
     <p>Após o include</p>
-    <?php require "exer0610/funcao.php";
-    
-    ?>
 
 
 
