@@ -8,11 +8,13 @@
 <body>
     
     <?php
-        include "teste.php";
+        require "teste.php";
     ?>
 
     <p>Após o include</p>
-    <p>O conteúdo do programa teste.php é: <?php echo $c; ?></p>
+    <?php require "exer0610/funcao.php";
+    
+    ?>
 
 
 
